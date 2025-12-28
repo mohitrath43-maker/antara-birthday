@@ -112,7 +112,7 @@ const GiftIntro = ({ onUnlock }) => {
           >
             <div className="relative bg-white dark:bg-slate-700 px-3 py-1 rounded-full shadow-lg border-2 border-pink-300 dark:border-pink-500">
               <span className="text-sm font-quicksand font-bold text-pink-500 dark:text-pink-300">
-                Tiku
+                Tuki
               </span>
               {/* Speech bubble tail */}
               <div className="absolute -bottom-2 left-1/2 -translate-x-1/2 w-0 h-0 
